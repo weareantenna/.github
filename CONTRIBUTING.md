@@ -12,6 +12,8 @@ These rules apply to every repo in `weareantenna`. A repo with its own `CONTRIBU
 
 Use the PR template and fill in every section. Write "n/a" with a reason instead of deleting a section.
 
+In "Merge danger", say whether a revert fully undoes the change (two-way door) or not (one-way door), and how much breaks if it goes wrong. A one-way door asks for a closer review.
+
 ## Screenshots
 
 Required when anything visible changed: before and after, at the size a user sees it.

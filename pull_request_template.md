@@ -12,6 +12,13 @@ Ticket:
 
 <!-- What you ran (lint, tests, build) and what you checked by hand, on which environment. -->
 
+## Merge danger
+
+<!-- Door: two-way when a revert undoes it completely, one-way when it cannot (a migration that drops or rewrites data, a sent mail or invoice, an API shape others already call). Blast radius in one word: none, page, feature, app, client, all. -->
+
+**Door:**
+**Blast radius:**
+
 ## Checklist
 
 - [ ] Lint and tests pass locally
